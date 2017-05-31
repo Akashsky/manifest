@@ -573,5 +573,6 @@
   <project path="external/google" name="AOSIP/platform_external_google" remote="github" revision="n7x" />
   <project path="packages/apps/CalendarWidget" name="DirtyUnicorns/android_packages_apps_CalendarWidget" remote="github" revision="n7x" />
 
+  <include name="local_manifest/op3.xml" />
 
 </manifest>
