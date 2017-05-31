@@ -2,8 +2,8 @@
 <manifest>
 
 <!-- Oneplus 3/3T Trees -->
-<project path="device/oneplus/oneplus3" name="phantom-1402/android_device_oneplus_oneplus3" remote="github" revision="aex-stable" />
-<project path="device/oppo/common" name="phantom-1402/android_device_oppo_common_1" remote="github" revision="aex" />
+<project path="device/oneplus/oneplus3" name="phantom-1402/android_device_oneplus_oneplus3" remote="private" revision="aex-stable" />
+<project path="device/oppo/common" name="phantom-1402/android_device_oppo_common_1" remote="private" revision="aex" />
 <project path="kernel/oneplus/msm8996" name="phantom-1402/android_kernel_oneplus_msm8996" remote="github" revision="aex" />
 <project path="vendor/oneplus" name="sultanxda/proprietary_vendor_oneplus" remote="github" revision="cm-14.1-sultan" />
 
